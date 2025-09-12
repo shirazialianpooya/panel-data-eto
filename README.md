@@ -3,7 +3,7 @@
 This repository hosts preliminary data, code, and notes related to the manuscript:
 
 > **Using Panel Data Technique to Estimate Reference Evapotranspiration**  
-> Author: Pooya Shirazi Alian
+> Author: Pooya Shirazi Alian  
 > Status: Manuscript in Preparation (2025)  
 
 ---
