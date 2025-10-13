@@ -210,3 +210,4 @@ __marimo__/
 # Pickle files
 *.pkl
 *.pickle
+*.parquet
