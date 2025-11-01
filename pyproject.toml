@@ -35,6 +35,7 @@ dependencies = [
     "spei>=0.8.0",
     "tensorflow>=2.20.0",
     "tqdm>=4.67.1",
+    "tslearn>=0.6.3",
     "xarray>=2025.9.0",
     "xee>=0.0.20",
     "xgboost>=3.0.5",
